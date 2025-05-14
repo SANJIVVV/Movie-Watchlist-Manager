@@ -19,4 +19,6 @@ A simple C++ console application that helps users manage their movie watchlist. 
 ## Data Storage
 Movies are saved in a text file (`watchlist.txt`), where each movie’s details (title, genre, and rating) are saved on a new line. This allows the watchlist to persist across multiple program runs.
 
+### PREVIEW
 
+![](sample.png)
