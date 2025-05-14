@@ -21,4 +21,5 @@ Movies are saved in a text file (`watchlist.txt`), where each movie’s details 
 
 ### PREVIEW
 
-![](sample.png)
+![Image Alt Text](https://raw.githubusercontent.com/SANJIVVV/Movie-Watchlist-Manager/main/SAMPLE.png)
+
